@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#009688</color>
+    <color name="red">#ff0000</color>ç
+
+    <!-- White text color  -->
+    <color name="actionBarText">#FFFFFF</color>
+
+    <!-- facebook blue color -->
+    <color name="actionBarBg">#45619D</color>
+    <color name="gray_dark">#5d5d5d</color>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- API KEY -->
+    <string name="api_key"></string>
+
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie">Movie Detail</string>
+    <string name="title_activity_review">Reviews</string>
+
+    <!-- Actions for action bar -->
+    <string name="action_share">Share</string>
+    
+    <!-- Array -->
+
+    <!-- Labeles for the sort by preference [CHAR LIMIT=30] -->
+    <string name="pref_sortby_label_popularity">Popularity</string>
+    <string name="pref_sortby_label_rating">Rating</string>
+    <string name="pref_sortby_label_favorites">Favorites</string>
+
+    <!-- Values for the sort by preference [CHAR LIMIT=30] -->
+    <string name="pref_sortby_value_popularity"  translatable="false">popularity</string>
+    <string name="pref_sortby_value_rating"  translatable="false">vote_average</string>
+    <string name="pref_sortby_value_favorites"  translatable="false">favorites</string>
+
+    <!-- Preferences -->
+    <!-- List of sortBy -->
+    <string name="pref_sort_movies_by">Sort movies by</string>
+    <string name="pref_sort_movies_by_key" translatable="false">movies</string>
+    <string name="pref_sort_movies_by_default_value" translatable="false">popularity</string>
+
+    <!-- Favorite toggle button -->
+    <string name="favorite_movie_toggle_turn_on" translatable="false">Mark as favorite</string>
+    <string name="favorite_movie_toggle_turn_off" translatable="false">Unmark as favorite</string>
+
+    <!-- Reviews button -->
+    <string name="reviews_button" translatable="false">Reviews</string>
+
+    <!-- Trailers -->
+    <string name="trailers" translatable="false">Trailers:</string>
+
+</resources>
